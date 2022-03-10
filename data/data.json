@@ -1,0 +1,32 @@
+
+
+{
+    "users": [
+    {    "ID":1,
+        "Name": "Ankit",
+        "Skill":"Angular",
+        "Location":"Bangalore"
+    },
+    {    "ID":2,
+        "Name": "Anand",
+        "Skill":"React",
+        "Location":"Hyderabad"
+    },
+    {    "ID":3,
+        "Name": "Shuabham",
+        "Skill":"Java Script",
+        "Location":"Chennai"
+    },
+    {    "ID":4,
+        "Name": "Rohit",
+        "Skill":"Java",
+        "Location":"Bangalore"
+    },
+    {    "ID":5,
+        "Name": "Shashank",
+        "Skill":"Angular",
+        "Location":"Gurgaon"
+    }
+]
+
+}
